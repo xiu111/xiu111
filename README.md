@@ -14,7 +14,7 @@
 ![GithubStats](https://github-readme-stats.vercel.app/api?username=xiu111&show_icons=true&theme=dark&count_private=true)
 
 <!-- github使用语言 -->
-<!-- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiu111&theme=dark&layout=compact) -->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiu111&theme=dark&layout=compact)
 
 ### 下一站：上岸
 <br/>
