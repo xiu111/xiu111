@@ -11,10 +11,7 @@
 
 ### Github提交次数<br/>
 #### 流水不争先，争的是滔滔不绝<br/>
-![GithubStats](https://github-readme-stats.vercel.app/api?username=xiu111&show_icons=true&theme=dark&count_private=true)
-
-<!-- github使用语言 -->
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xiu111&theme=dark&layout=compact)
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
 
 ### 下一站：上岸
 <br/>
