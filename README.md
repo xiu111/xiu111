@@ -1,10 +1,9 @@
 ## Hi Welcome to my Github 
 
-### 小镇程序员，激流勇进，逆流而上
+### 再次渡入凡世，人潮汹涌
 
 
-### 百万编程笔记库:https://www.yuque.com/icu0
-
+### 叶秋学长：https://blog.csdn.net/m0_63722685
 
 ![image](https://user-images.githubusercontent.com/84832795/212478754-bb2b6468-c2ef-486b-ae8b-a79a0faf715d.png)
 <br/>
